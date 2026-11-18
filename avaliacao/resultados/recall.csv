@@ -1,0 +1,4 @@
+busca,recall@1,recall@3
+emb,0.846,0.923
+bm25,0.769,0.885
+hibrido,0.846,0.885

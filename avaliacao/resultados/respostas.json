@@ -1,0 +1,2369 @@
+[
+ {
+  "config": "A_sem_contexto",
+  "caso": "C01",
+  "resposta": "A largura mínima da faixa livre da calçada, de acordo com a NBR 9050, é de 1,50 metro.",
+  "trecho_ids": [],
+  "recusou": false,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "C02",
+  "resposta": "A altura livre mínima da faixa livre da calçada, conforme estabelecido na NBR 9050, é de 2,00 metros.",
+  "trecho_ids": [],
+  "recusou": false,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "C03",
+  "resposta": "A inclinação transversal máxima da faixa livre deve ser de até 1:20, conforme estabelecido na NBR 9050.",
+  "trecho_ids": [],
+  "recusou": false,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "C04",
+  "resposta": "A largura mínima recomendada para a faixa de serviço da calçada no Brasil é de 1,5 metro, conforme estabelecido na NBR 9050.",
+  "trecho_ids": [],
+  "recusou": false,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "C05",
+  "resposta": "A calçada pode ser dividida em faixas de uso como: pedestres, ciclistas, estacionamento de bicicletas e áreas comerciais.",
+  "trecho_ids": [],
+  "recusou": false,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "C06",
+  "resposta": "A faixa de serviço da calçada serve para separar o espaço destinado aos pedestres do tráfego de veículos, garantindo segurança aos caminhantes e facilitando o acesso a edificações.",
+  "trecho_ids": [],
+  "recusou": false,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "C07",
+  "resposta": "A largura recomendada para a faixa livre (faixa de passeio) é de pelo menos 1,50 metro, conforme estabelecido na NBR 9050, mas pode variar dependendo do tipo de calçada e uso previsto.",
+  "trecho_ids": [],
+  "recusou": false,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "C08",
+  "resposta": "A faixa de acesso deve ser instalada em todas as calçadas que possuam rampas de acessibilidade, garantindo a integração entre a calçada e o passeio público.",
+  "trecho_ids": [],
+  "recusou": false,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "C09",
+  "resposta": "A largura mínima da rampa de rebaixamento da guia deve ser de 0,90 metros conforme a ABNT NBR 9050.",
+  "trecho_ids": [],
+  "recusou": false,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "C10",
+  "resposta": "A inclinação máxima da rampa de rebaixamento da guia deve ser de no máximo 1:20, conforme estabelecido na NBR 9050.",
+  "trecho_ids": [],
+  "recusou": false,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "C11",
+  "resposta": "Não deve haver desnível entre o fim da rampa de rebaixamento e a rua, para garantir a acessibilidade e segurança das pessoas com deficiência e demais usuários.",
+  "trecho_ids": [],
+  "recusou": false,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "C12",
+  "resposta": "A legislação não estabelece uma largura mínima específica para circulação de pedestres durante obras sobre o passeio. No entanto, é recomendado manter espaços suficientes para a circulação segura dos pedestres, evitando obstruções desnecessárias e garantindo a acessibilidade.",
+  "trecho_ids": [],
+  "recusou": false,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "C13",
+  "resposta": "A altura mínima recomendada para toldos e marquises sobre a calçada é de 2,50 metros, conforme estabelecido na NBR 9050 - Projeto de Edifícios e Ambientes.",
+  "trecho_ids": [],
+  "recusou": false,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "C14",
+  "resposta": "A altura livre mínima para obstáculos verticais na calçada, de acordo com a ABNT NBR 9050, é de 0,85 metros.",
+  "trecho_ids": [],
+  "recusou": false,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "C15",
+  "resposta": "A faixa livre deve ser destacada visualmente das outras faixas através do uso de pavimentação com material texturizado, como granilite ou pedras irregulares, que oferecem contraste visual e tátil. Também pode ser indicado o uso de cores diferentes, mas é importante que o contraste com o restante da calçada seja visível tanto para pessoas com visão normal quanto para pessoas com deficiência visual.",
+  "trecho_ids": [],
+  "recusou": false,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "C16",
+  "resposta": "A norma que trata da sinalização tátil no piso das calçadas no Brasil é a NBR 13.285, que estabelece os requisitos para a acessibilidade em edificações e espaços públicos, incluindo as sinalizações tácteis.",
+  "trecho_ids": [],
+  "recusou": false,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "C17",
+  "resposta": "Sim, estacionar na calçada é uma infração. O artigo 229 do CTB trata sobre estacionamento irregular.",
+  "trecho_ids": [],
+  "recusou": false,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "C18",
+  "resposta": "O Censo 2022 do IBGE não foi realizado ainda, portanto, não há dados disponíveis sobre o número de pessoas com deficiência contadas nesse censo.",
+  "trecho_ids": [],
+  "recusou": true,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "C19",
+  "resposta": "De acordo com o Censo 2022, a dificuldade funcional mais frequente entre as pessoas com deficiência é a mobilidade, relacionada a problemas nas pernas, pés, joelhos ou quadril.",
+  "trecho_ids": [],
+  "recusou": false,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "C20",
+  "resposta": "Não tenho informações específicas sobre a porcentagem de pessoas com deficiência com 60 anos ou mais no Censo 2022 do Brasil. Recuso-me a responder com dados inexatos.",
+  "trecho_ids": [],
+  "recusou": true,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "C21",
+  "resposta": "Barreira urbanística, segundo a Lei Brasileira de Inclusão (Lei nº 13.146/2015), são obstáculos arquitetônicos, urbanísticos ou de outra natureza que dificultam ou impossibilitam a mobilidade e a acessibilidade das pessoas com deficiência e demais cidadãos.",
+  "trecho_ids": [],
+  "recusou": false,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "C22",
+  "resposta": "A classe 'aproximando' indica que o robô está se movendo para perto de um obstáculo ou barreira, mas ainda não o detectou completamente. Isso ajuda na navegação e na avaliação da proximidade dos obstáculos.",
+  "trecho_ids": [],
+  "recusou": false,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "C23",
+  "resposta": "Os valores exatos do LDR que ativam o farol do robô podem variar, mas geralmente estão entre 500 e 800 lux para liga e acima de 800 lux para desliga. No entanto, esses valores podem ser ajustados durante a calibração do robô.",
+  "trecho_ids": [],
+  "recusou": false,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "C24",
+  "resposta": "O robô não grava imagens ou áudio das pessoas. Sua finalidade é inspecionar calçadas para identificar acessibilidades e inaccessibilidades.",
+  "trecho_ids": [],
+  "recusou": false,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "C25",
+  "resposta": "O robô aciona o freio de emergência a uma distância pré-definida, geralmente entre 5 a 10 centímetros de obstáculos perigosos, para evitar danos ao equipamento e garantir a segurança durante as inspeções.",
+  "trecho_ids": [],
+  "recusou": false,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "C26",
+  "resposta": "Não tenho informações específicas sobre como o modelo do robô aprendeu a classe 'aproximando'. Precisaria de detalhes adicionais sobre o treinamento do robô para responder com certeza.",
+  "trecho_ids": [],
+  "recusou": true,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "N01",
+  "resposta": "O valor da multa por estacionar na calçada varia conforme a cidade e o estado, podendo ser encontrado em leis locais. Normalmente, oscila entre R$ 50,00 e R$ 200,00.",
+  "trecho_ids": [],
+  "recusou": false,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "N02",
+  "resposta": "A norma ABNT NBR 15728 não estabelece uma iluminância mínima específica para calçadas, mas recomenda valores de 100 a 200 lux em áreas de passagem frequente.",
+  "trecho_ids": [],
+  "recusou": false,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "N03",
+  "resposta": "A inclinação longitudinal máxima permitida para a calçada, de acordo com a ABNT NBR 9090, é de 8%.",
+  "trecho_ids": [],
+  "recusou": false,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "N04",
+  "resposta": "Dados específicos sobre o número de pessoas com deficiência no estado de São Paulo não foram fornecidos no contexto atual. Recomenda-se consultar o IBGE ou fontes oficiais para obter estatísticas atualizadas.",
+  "trecho_ids": [],
+  "recusou": true,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "N05",
+  "resposta": "A distância máxima permitida entre postes de iluminação pública não é especificada em normas brasileiras de acessibilidade, pois essa distância geralmente depende de fatores como a via, o tipo de iluminação e a legislação local. No entanto, para acessibilidade, a iluminação deve ser suficiente e uniforme, garantindo a segurança dos usuários.",
+  "trecho_ids": [],
+  "recusou": true,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "N06",
+  "resposta": "A largura mínima de uma ciclovia segundo a NBR 9050 é de 1,5 metro.",
+  "trecho_ids": [],
+  "recusou": false,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "N07",
+  "resposta": "O preço do sensor LDR usado no robô pode variar, pois depende do fornecedor e da quantidade. Geralmente, o preço pode estar entre R$ 2 e R$ 10.",
+  "trecho_ids": [],
+  "recusou": false,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "A_sem_contexto",
+  "caso": "N08",
+  "resposta": "A largura mínima de uma vaga de estacionamento para pessoa com deficiência no Brasil é de 3,50 metros, conforme estabelecido na Norma Brasileira NBR 12330.",
+  "trecho_ids": [],
+  "recusou": false,
+  "json_valido": true,
+  "trace": []
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "C01",
+  "resposta": "A largura mínima da faixa livre da calçada, segundo a NBR 9050, é de 1,20 m, sendo 1,50 m o recomendado.",
+  "trecho_ids": [
+   "T13",
+   "T16",
+   "T17"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T16",
+     "T13",
+     "T17"
+    ],
+    "cos": [
+     0.673,
+     0.661,
+     0.647
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "C02",
+  "resposta": "A faixa livre deve manter no mínimo 1,20 m de largura livre.",
+  "trecho_ids": [
+   "T16",
+   "T13",
+   "T17"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T16",
+     "T13",
+     "T17"
+    ],
+    "cos": [
+     0.762,
+     0.733,
+     0.707
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "C03",
+  "resposta": "A inclinação transversal máxima da faixa livre é de até 3%.",
+  "trecho_ids": [
+   "T11"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T11",
+     "T13",
+     "T16"
+    ],
+    "cos": [
+     0.627,
+     0.625,
+     0.58
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "C04",
+  "resposta": "A largura mínima recomendada para a faixa de serviço da calçada é de 0,70 m.",
+  "trecho_ids": [
+   "T12"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T12",
+     "T17",
+     "T13"
+    ],
+    "cos": [
+     0.766,
+     0.698,
+     0.693
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "C05",
+  "resposta": "A calçada se divide em três faixas de uso: faixa de serviço, faixa livre (passeio) e faixa de acesso.",
+  "trecho_ids": [
+   "T10"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T10",
+     "T12",
+     "T14"
+    ],
+    "cos": [
+     0.758,
+     0.647,
+     0.611
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "C06",
+  "resposta": "A faixa de serviço serve para acomodar o mobiliário, os canteiros, as árvores e os postes de iluminação ou sinalização.",
+  "trecho_ids": [
+   "T12"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T12",
+     "T10",
+     "T14"
+    ],
+    "cos": [
+     0.776,
+     0.685,
+     0.614
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "C07",
+  "resposta": "A largura recomendada para a faixa livre é de 1,50 m.",
+  "trecho_ids": [
+   "T13"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T13",
+     "T11",
+     "T16"
+    ],
+    "cos": [
+     0.769,
+     0.687,
+     0.659
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "C08",
+  "resposta": "A faixa de acesso pode existir em calçadas com largura superior a 2,00 m.",
+  "trecho_ids": [
+   "T14"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T14",
+     "T10",
+     "T12"
+    ],
+    "cos": [
+     0.741,
+     0.711,
+     0.627
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "C09",
+  "resposta": "A largura mínima da rampa de rebaixamento da guia é de 1,20 m.",
+  "trecho_ids": [
+   "T18"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T18",
+     "T17",
+     "T19"
+    ],
+    "cos": [
+     0.805,
+     0.621,
+     0.601
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "C10",
+  "resposta": "A inclinação máxima da rampa de rebaixamento da guia é de 8,33%.",
+  "trecho_ids": [
+   "T18"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T18",
+     "T19",
+     "T17"
+    ],
+    "cos": [
+     0.784,
+     0.587,
+     0.535
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "C11",
+  "resposta": "Não deve haver desnível entre o término da rampa de rebaixamento e o leito carroçável da rua. ",
+  "trecho_ids": [
+   "T19"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T19",
+     "T18",
+     "T17"
+    ],
+    "cos": [
+     0.769,
+     0.619,
+     0.588
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "C12",
+  "resposta": "As obras sobre o passeio devem assegurar uma largura mínima de 1,20 m para circulação de pedestres.",
+  "trecho_ids": [
+   "T21"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T21",
+     "T11",
+     "T17"
+    ],
+    "cos": [
+     0.743,
+     0.665,
+     0.604
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "C13",
+  "resposta": "A altura mínima de toldos e marquises sobre a calçada deve ser de 3,00 m.",
+  "trecho_ids": [
+   "T22"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T22",
+     "T17",
+     "T16"
+    ],
+    "cos": [
+     0.781,
+     0.654,
+     0.639
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "C14",
+  "resposta": "A altura livre mínima para obstáculos verticais na calçada é de 2,10 m.",
+  "trecho_ids": [
+   "T22"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T22",
+     "T16",
+     "T17"
+    ],
+    "cos": [
+     0.747,
+     0.67,
+     0.657
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "C15",
+  "resposta": "A faixa livre deve ser destacada visualmente por meio de cores, texturas ou juntas em relação às outras faixas.",
+  "trecho_ids": [
+   "T23"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T23",
+     "T13",
+     "T11"
+    ],
+    "cos": [
+     0.743,
+     0.623,
+     0.614
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "C16",
+  "resposta": "A norma NBR 16537:2024 trata da sinalização tátil no piso das calçadas.",
+  "trecho_ids": [
+   "T24"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T24",
+     "T23",
+     "T15"
+    ],
+    "cos": [
+     0.774,
+     0.527,
+     0.478
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "C17",
+  "resposta": "Estacionar o veículo no passeio ou sobre faixa destinada a pedestre é infração de trânsito grave, prevista no art. 181, VIII, do CTB.",
+  "trecho_ids": [
+   "T04"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T04",
+     "T24",
+     "T20"
+    ],
+    "cos": [
+     0.703,
+     0.454,
+     0.449
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "C18",
+  "resposta": "O Censo 2022 do IBGE contou 14,4 milhões de pessoas com deficiência no Brasil.",
+  "trecho_ids": [
+   "T05"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T05",
+     "T08",
+     "T06"
+    ],
+    "cos": [
+     0.845,
+     0.803,
+     0.718
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "C19",
+  "resposta": "A dificuldade funcional mais frequente entre as pessoas com deficiência no Censo 2022 foi enxergar, mesmo com óculos ou lentes de contato.",
+  "trecho_ids": [
+   "T06"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T06",
+     "T05",
+     "T08"
+    ],
+    "cos": [
+     0.775,
+     0.669,
+     0.649
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "C20",
+  "resposta": "Os idosos de 60 anos ou mais representavam 45,4% das pessoas com deficiência no Censo 2022.",
+  "trecho_ids": [
+   "T07"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T07",
+     "T05",
+     "T06"
+    ],
+    "cos": [
+     0.798,
+     0.702,
+     0.643
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "C21",
+  "resposta": "Barreiras urbanísticas são as existentes nas vias e nos espaços públicos e privados abertos ao público ou de uso coletivo.",
+  "trecho_ids": [
+   "T02"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T02",
+     "T14",
+     "T11"
+    ],
+    "cos": [
+     0.624,
+     0.455,
+     0.442
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "C22",
+  "resposta": "A classe 'aproximando' do modelo TinyML do robô indica uma queda de pelo menos 15 cm na janela de 2 s do sensor ultrassônico, começando em pelo menos 25 cm, sem ser classificada como 'obstaculo' ou 'livre'.",
+  "trecho_ids": [],
+  "recusou": true,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T27",
+     "T31",
+     "T26"
+    ],
+    "cos": [
+     0.595,
+     0.546,
+     0.526
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "C23",
+  "resposta": "O farol do robô liga quando a leitura suavizada do LDR fica abaixo de 1200 e desliga quando passa de 1600.",
+  "trecho_ids": [
+   "T28"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T28",
+     "T29",
+     "T30"
+    ],
+    "cos": [
+     0.776,
+     0.522,
+     0.51
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "C24",
+  "resposta": "O robô não grava imagens ou áudio das pessoas.",
+  "trecho_ids": [
+   "T30"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T30",
+     "T28",
+     "T26"
+    ],
+    "cos": [
+     0.594,
+     0.47,
+     0.465
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "C25",
+  "resposta": "O robô aciona o freio de emergência quando a distância frontal é de 5 cm ou menos.",
+  "trecho_ids": [
+   "T29"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T29",
+     "T28",
+     "T30"
+    ],
+    "cos": [
+     0.682,
+     0.564,
+     0.534
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "C26",
+  "resposta": "Não, o modelo não aprendeu bem a classe 'aproximando'. No teste final, essa classe não foi aprendida (F1 igual a 0,00) devido ao pequeno conjunto de dados, com apenas 6 janelas de aproximando.",
+  "trecho_ids": [
+   "T31"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T27",
+     "T31",
+     "T26"
+    ],
+    "cos": [
+     0.553,
+     0.545,
+     0.512
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "N01",
+  "resposta": "Não consta na base de conhecimento.",
+  "trecho_ids": [],
+  "recusou": true,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T04",
+     "T16",
+     "T10"
+    ],
+    "cos": [
+     0.564,
+     0.513,
+     0.506
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "N02",
+  "resposta": "Não consta na base de conhecimento.",
+  "trecho_ids": [],
+  "recusou": true,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T17",
+     "T22",
+     "T16"
+    ],
+    "cos": [
+     0.523,
+     0.52,
+     0.511
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "N03",
+  "resposta": "Não consta na base de conhecimento.",
+  "trecho_ids": [],
+  "recusou": true,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T17",
+     "T16",
+     "T22"
+    ],
+    "cos": [
+     0.656,
+     0.641,
+     0.623
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "N04",
+  "resposta": "Não consta na base de conhecimento.",
+  "trecho_ids": [],
+  "recusou": true,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T05",
+     "T08",
+     "T06"
+    ],
+    "cos": [
+     0.684,
+     0.654,
+     0.606
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "N05",
+  "resposta": "Não consta na base de conhecimento.",
+  "trecho_ids": [],
+  "recusou": true,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T22",
+     "T13",
+     "T21"
+    ],
+    "cos": [
+     0.516,
+     0.497,
+     0.492
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "N06",
+  "resposta": "Não consta na base de conhecimento.",
+  "trecho_ids": [],
+  "recusou": true,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T21",
+     "T13",
+     "T11"
+    ],
+    "cos": [
+     0.509,
+     0.501,
+     0.499
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "N07",
+  "resposta": "Não consta na base de conhecimento.",
+  "trecho_ids": [],
+  "recusou": true,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T28",
+     "T30",
+     "T26"
+    ],
+    "cos": [
+     0.525,
+     0.512,
+     0.451
+    ]
+   }
+  ]
+ },
+ {
+  "config": "B_rag_simples",
+  "caso": "N08",
+  "resposta": "Não consta na base de conhecimento.",
+  "trecho_ids": [],
+  "recusou": true,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "busca",
+    "ids": [
+     "T13",
+     "T14",
+     "T12"
+    ],
+    "cos": [
+     0.582,
+     0.573,
+     0.56
+    ]
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "C01",
+  "resposta": "Não consta na base de conhecimento.",
+  "trecho_ids": [],
+  "recusou": true,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "largura mínima faixa livre calçada NBR 9050",
+    "tema": "norma"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.673,
+    "limiar": 0.694
+   },
+   {
+    "passo": "recusa",
+    "motivo": "similaridade máxima 0.67 abaixo do limiar 0.69"
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "C02",
+  "resposta": "Não consta na base de conhecimento.",
+  "trecho_ids": [],
+  "recusou": true,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "altura livre mínima faixa livre calçada NBR 9050",
+    "tema": "norma"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.762,
+    "limiar": 0.694
+   },
+   {
+    "passo": "busca_hibrida",
+    "ids": [
+     "T22",
+     "T13",
+     "T17"
+    ]
+   },
+   {
+    "passo": "gerar_1",
+    "json_valido": true,
+    "ids": []
+   },
+   {
+    "passo": "recusa",
+    "motivo": "o gerador recusou: trechos não contêm a resposta"
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "C03",
+  "resposta": "Não consta na base de conhecimento.",
+  "trecho_ids": [],
+  "recusou": true,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "inclinação transversal máxima faixa livre NBR 9050",
+    "tema": "norma"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.627,
+    "limiar": 0.694
+   },
+   {
+    "passo": "recusa",
+    "motivo": "similaridade máxima 0.63 abaixo do limiar 0.69"
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "C04",
+  "resposta": "A largura mínima recomendada para a faixa de serviço da calçada é de 0,70 m.",
+  "trecho_ids": [
+   "T12"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "largura mínima faixa de serviço calçada NBR 9050",
+    "tema": "norma"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.766,
+    "limiar": 0.694
+   },
+   {
+    "passo": "busca_hibrida",
+    "ids": [
+     "T12",
+     "T17",
+     "T10"
+    ]
+   },
+   {
+    "passo": "gerar_1",
+    "json_valido": true,
+    "ids": [
+     "T12"
+    ]
+   },
+   {
+    "passo": "verificar_1",
+    "deterministico": true,
+    "motivo": "",
+    "llm": {
+     "suportada": true,
+     "problemas": ""
+    }
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "C05",
+  "resposta": "A calçada se divide em três faixas de uso: faixa de serviço, faixa livre (passeio) e faixa de acesso.",
+  "trecho_ids": [
+   "T10"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "faixas de uso na calçada NBR 9050",
+    "tema": "norma"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.758,
+    "limiar": 0.694
+   },
+   {
+    "passo": "busca_hibrida",
+    "ids": [
+     "T10",
+     "T17",
+     "T23"
+    ]
+   },
+   {
+    "passo": "gerar_1",
+    "json_valido": true,
+    "ids": [
+     "T10"
+    ]
+   },
+   {
+    "passo": "verificar_1",
+    "deterministico": true,
+    "motivo": "",
+    "llm": {
+     "suportada": true,
+     "problemas": ""
+    }
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "C06",
+  "resposta": "A faixa de serviço serve para acomodar o mobiliário, os canteiros, as árvores e os postes de iluminação ou sinalização.",
+  "trecho_ids": [
+   "T12"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "função da faixa de serviço na calçada NBR 9050",
+    "tema": "norma"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.776,
+    "limiar": 0.694
+   },
+   {
+    "passo": "busca_hibrida",
+    "ids": [
+     "T12",
+     "T10",
+     "T20"
+    ]
+   },
+   {
+    "passo": "gerar_1",
+    "json_valido": true,
+    "ids": [
+     "T12"
+    ]
+   },
+   {
+    "passo": "verificar_1",
+    "deterministico": true,
+    "motivo": "",
+    "llm": {
+     "suportada": true,
+     "problemas": ""
+    }
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "C07",
+  "resposta": "A largura recomendada para a faixa livre é de 1,50 m.",
+  "trecho_ids": [
+   "T13"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "largura recomendada faixa livre norma NBR 9050",
+    "tema": "norma"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.769,
+    "limiar": 0.694
+   },
+   {
+    "passo": "busca_hibrida",
+    "ids": [
+     "T13",
+     "T16",
+     "T11"
+    ]
+   },
+   {
+    "passo": "gerar_1",
+    "json_valido": true,
+    "ids": [
+     "T13"
+    ]
+   },
+   {
+    "passo": "verificar_1",
+    "deterministico": true,
+    "motivo": "",
+    "llm": {
+     "suportada": true,
+     "problemas": ""
+    }
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "C08",
+  "resposta": "A faixa de acesso pode existir em calçadas com largura superior a 2,00 m.",
+  "trecho_ids": [
+   "T14"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "em quais calçadas pode existir a faixa de acesso NBR 9050",
+    "tema": "norma"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.741,
+    "limiar": 0.694
+   },
+   {
+    "passo": "busca_hibrida",
+    "ids": [
+     "T14",
+     "T10",
+     "T12"
+    ]
+   },
+   {
+    "passo": "gerar_1",
+    "json_valido": true,
+    "ids": [
+     "T14"
+    ]
+   },
+   {
+    "passo": "verificar_1",
+    "deterministico": true,
+    "motivo": "",
+    "llm": {
+     "suportada": true,
+     "problemas": ""
+    }
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "C09",
+  "resposta": "A largura mínima da rampa de rebaixamento da guia é de 1,20 m.",
+  "trecho_ids": [
+   "T18"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "largura mínima rampa rebaixamento guia NBR 9050",
+    "tema": "norma"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.805,
+    "limiar": 0.694
+   },
+   {
+    "passo": "busca_hibrida",
+    "ids": [
+     "T18",
+     "T19",
+     "T14"
+    ]
+   },
+   {
+    "passo": "gerar_1",
+    "json_valido": true,
+    "ids": [
+     "T18"
+    ]
+   },
+   {
+    "passo": "verificar_1",
+    "deterministico": true,
+    "motivo": "",
+    "llm": {
+     "suportada": true,
+     "problemas": ""
+    }
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "C10",
+  "resposta": "A inclinação máxima da rampa de rebaixamento da guia é de 8,33%.",
+  "trecho_ids": [
+   "T18"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "inclinação máxima rampa rebaixamento guia NBR 9050",
+    "tema": "norma"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.784,
+    "limiar": 0.694
+   },
+   {
+    "passo": "busca_hibrida",
+    "ids": [
+     "T18",
+     "T19",
+     "T14"
+    ]
+   },
+   {
+    "passo": "gerar_1",
+    "json_valido": true,
+    "ids": [
+     "T18"
+    ]
+   },
+   {
+    "passo": "verificar_1",
+    "deterministico": true,
+    "motivo": "",
+    "llm": {
+     "suportada": true,
+     "problemas": ""
+    }
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "C11",
+  "resposta": "Não deve haver desnível entre o término da rampa de rebaixamento e o leito carroçável da rua. ",
+  "trecho_ids": [
+   "T19"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "desnível entre rampa rebaixamento e rua norma NBR 9050",
+    "tema": "norma"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.769,
+    "limiar": 0.694
+   },
+   {
+    "passo": "busca_hibrida",
+    "ids": [
+     "T19",
+     "T18",
+     "T14"
+    ]
+   },
+   {
+    "passo": "gerar_1",
+    "json_valido": true,
+    "ids": [
+     "T19"
+    ]
+   },
+   {
+    "passo": "verificar_1",
+    "deterministico": true,
+    "motivo": "",
+    "llm": {
+     "suportada": true,
+     "problemas": ""
+    }
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "C12",
+  "resposta": "A largura mínima para circulação de pedestres durante obras sobre o passeio é de 1,20 m.",
+  "trecho_ids": [
+   "T21"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "largura mínima circulação pedestres obras passeio NBR 9050",
+    "tema": "norma"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.743,
+    "limiar": 0.694
+   },
+   {
+    "passo": "busca_hibrida",
+    "ids": [
+     "T21",
+     "T11",
+     "T25"
+    ]
+   },
+   {
+    "passo": "gerar_1",
+    "json_valido": true,
+    "ids": [
+     "T21"
+    ]
+   },
+   {
+    "passo": "verificar_1",
+    "deterministico": true,
+    "motivo": "",
+    "llm": {
+     "suportada": true,
+     "problemas": ""
+    }
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "C13",
+  "resposta": "A altura mínima de toldos e marquises sobre a calçada é de 3,00 m.",
+  "trecho_ids": [
+   "T22"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "altura mínima toldos marquises calçada NBR 9050",
+    "tema": "norma"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.781,
+    "limiar": 0.694
+   },
+   {
+    "passo": "busca_hibrida",
+    "ids": [
+     "T22",
+     "T17",
+     "T25"
+    ]
+   },
+   {
+    "passo": "gerar_1",
+    "json_valido": true,
+    "ids": [
+     "T22"
+    ]
+   },
+   {
+    "passo": "verificar_1",
+    "deterministico": true,
+    "motivo": "",
+    "llm": {
+     "suportada": true,
+     "problemas": ""
+    }
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "C14",
+  "resposta": "A altura livre mínima para obstáculos verticais na calçada deve ser de 2,10 m.",
+  "trecho_ids": [
+   "T22"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "altura livre mínima obstáculos verticais calçada NBR 9050",
+    "tema": "norma"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.747,
+    "limiar": 0.694
+   },
+   {
+    "passo": "busca_hibrida",
+    "ids": [
+     "T22",
+     "T11",
+     "T17"
+    ]
+   },
+   {
+    "passo": "gerar_1",
+    "json_valido": true,
+    "ids": [
+     "T22"
+    ]
+   },
+   {
+    "passo": "verificar_1",
+    "deterministico": true,
+    "motivo": "",
+    "llm": {
+     "suportada": true,
+     "problemas": ""
+    }
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "C15",
+  "resposta": "A faixa livre deve ser destacada visualmente por meio de cores, texturas ou juntas em relação às outras faixas.",
+  "trecho_ids": [
+   "T23"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "como destacar visualmente a faixa livre nas normas de sinalização robo",
+    "tema": "norma"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.743,
+    "limiar": 0.694
+   },
+   {
+    "passo": "busca_hibrida",
+    "ids": [
+     "T23",
+     "T11",
+     "T13"
+    ]
+   },
+   {
+    "passo": "gerar_1",
+    "json_valido": true,
+    "ids": [
+     "T23"
+    ]
+   },
+   {
+    "passo": "verificar_1",
+    "deterministico": true,
+    "motivo": "",
+    "llm": {
+     "suportada": true,
+     "problemas": ""
+    }
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "C16",
+  "resposta": "A norma NBR 16537:2024 trata da sinalização tátil no piso das calçadas.",
+  "trecho_ids": [
+   "T24"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "norma NBR 9050 sinalização tátil calçada",
+    "tema": "norma"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.774,
+    "limiar": 0.694
+   },
+   {
+    "passo": "busca_hibrida",
+    "ids": [
+     "T24",
+     "T23",
+     "T15"
+    ]
+   },
+   {
+    "passo": "gerar_1",
+    "json_valido": true,
+    "ids": [
+     "T24"
+    ]
+   },
+   {
+    "passo": "verificar_1",
+    "deterministico": true,
+    "motivo": "",
+    "llm": {
+     "suportada": true,
+     "problemas": ""
+    }
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "C17",
+  "resposta": "Estacionar o veículo no passeio ou sobre faixa destinada a pedestre, como a calçada, é infração de trânsito grave, prevista no art. 181, VIII, do CTB.",
+  "trecho_ids": [
+   "T04"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "Estacionar na calçada é infração? Artigo CTB",
+    "tema": "lei"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.703,
+    "limiar": 0.694
+   },
+   {
+    "passo": "busca_hibrida",
+    "ids": [
+     "T04",
+     "T10",
+     "T15"
+    ]
+   },
+   {
+    "passo": "gerar_1",
+    "json_valido": true,
+    "ids": [
+     "T04"
+    ]
+   },
+   {
+    "passo": "verificar_1",
+    "deterministico": true,
+    "motivo": "",
+    "llm": {
+     "suportada": true,
+     "problemas": ""
+    }
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "C18",
+  "resposta": "O Censo 2022 do IBGE contou 14,4 milhões de pessoas com deficiência no Brasil.",
+  "trecho_ids": [
+   "T05"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "Censo 2022 IBGE pessoas com deficiência Brasil",
+    "tema": "dado"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.845,
+    "limiar": 0.694
+   },
+   {
+    "passo": "busca_hibrida",
+    "ids": [
+     "T05",
+     "T08",
+     "T06"
+    ]
+   },
+   {
+    "passo": "gerar_1",
+    "json_valido": true,
+    "ids": [
+     "T05"
+    ]
+   },
+   {
+    "passo": "verificar_1",
+    "deterministico": true,
+    "motivo": "",
+    "llm": {
+     "suportada": true,
+     "problemas": ""
+    }
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "C19",
+  "resposta": "A dificuldade funcional mais frequente entre as pessoas com deficiência no Censo 2022 foi enxergar, mesmo com óculos ou lentes de contato.",
+  "trecho_ids": [
+   "T06"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "dificuldade funcional mais frequente Censo 2022",
+    "tema": "dado"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.775,
+    "limiar": 0.694
+   },
+   {
+    "passo": "busca_hibrida",
+    "ids": [
+     "T06",
+     "T05",
+     "T08"
+    ]
+   },
+   {
+    "passo": "gerar_1",
+    "json_valido": true,
+    "ids": [
+     "T06"
+    ]
+   },
+   {
+    "passo": "verificar_1",
+    "deterministico": true,
+    "motivo": "",
+    "llm": {
+     "suportada": true,
+     "problemas": ""
+    }
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "C20",
+  "resposta": "Os idosos de 60 anos ou mais representavam 45,4% das pessoas com deficiência no Censo 2022.",
+  "trecho_ids": [
+   "T07"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "percentual pessoas com deficiência 60 anos ou mais Censo 2022",
+    "tema": "dado"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.798,
+    "limiar": 0.694
+   },
+   {
+    "passo": "busca_hibrida",
+    "ids": [
+     "T07",
+     "T05",
+     "T06"
+    ]
+   },
+   {
+    "passo": "gerar_1",
+    "json_valido": true,
+    "ids": [
+     "T07"
+    ]
+   },
+   {
+    "passo": "verificar_1",
+    "deterministico": true,
+    "motivo": "",
+    "llm": {
+     "suportada": true,
+     "problemas": ""
+    }
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "C21",
+  "resposta": "Não consta na base de conhecimento.",
+  "trecho_ids": [],
+  "recusou": true,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "barreira urbanística Lei Brasileira de Inclusão LBI",
+    "tema": "lei"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.624,
+    "limiar": 0.694
+   },
+   {
+    "passo": "recusa",
+    "motivo": "similaridade máxima 0.62 abaixo do limiar 0.69"
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "C22",
+  "resposta": "Não consta na base de conhecimento.",
+  "trecho_ids": [],
+  "recusou": true,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "significado classe aproximando modelo robô",
+    "tema": "robo"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.595,
+    "limiar": 0.694
+   },
+   {
+    "passo": "recusa",
+    "motivo": "similaridade máxima 0.60 abaixo do limiar 0.69"
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "C23",
+  "resposta": "O farol do robô liga quando a leitura suavizada do LDR fica abaixo de 1200 e desliga quando passa de 1600.",
+  "trecho_ids": [
+   "T28"
+  ],
+  "recusou": false,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "valores LDR farol robô liga desliga",
+    "tema": "robo"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.776,
+    "limiar": 0.694
+   },
+   {
+    "passo": "busca_hibrida",
+    "ids": [
+     "T28",
+     "T29",
+     "T26"
+    ]
+   },
+   {
+    "passo": "gerar_1",
+    "json_valido": true,
+    "ids": [
+     "T28"
+    ]
+   },
+   {
+    "passo": "verificar_1",
+    "deterministico": true,
+    "motivo": "",
+    "llm": {
+     "suportada": true,
+     "problemas": ""
+    }
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "C24",
+  "resposta": "Não consta na base de conhecimento.",
+  "trecho_ids": [],
+  "recusou": true,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "robô grava imagens ou áudio norma",
+    "tema": "robo"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.594,
+    "limiar": 0.694
+   },
+   {
+    "passo": "recusa",
+    "motivo": "similaridade máxima 0.59 abaixo do limiar 0.69"
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "C25",
+  "resposta": "Não consta na base de conhecimento.",
+  "trecho_ids": [],
+  "recusou": true,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "distância robô aciona freio emergência TinyML",
+    "tema": "robo"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.682,
+    "limiar": 0.694
+   },
+   {
+    "passo": "recusa",
+    "motivo": "similaridade máxima 0.68 abaixo do limiar 0.69"
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "C26",
+  "resposta": "Não consta na base de conhecimento.",
+  "trecho_ids": [],
+  "recusou": true,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "robô aprendizado classe aproximando",
+    "tema": "robo"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.553,
+    "limiar": 0.694
+   },
+   {
+    "passo": "recusa",
+    "motivo": "similaridade máxima 0.55 abaixo do limiar 0.69"
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "N01",
+  "resposta": "Não consta na base de conhecimento.",
+  "trecho_ids": [],
+  "recusou": true,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "valor multa estacionar calçada em reais norma NBR 9050",
+    "tema": "norma"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.564,
+    "limiar": 0.694
+   },
+   {
+    "passo": "recusa",
+    "motivo": "similaridade máxima 0.56 abaixo do limiar 0.69"
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "N02",
+  "resposta": "Não consta na base de conhecimento.",
+  "trecho_ids": [],
+  "recusou": true,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "iluminância mínima lux calçada NBR 9050",
+    "tema": "norma"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.523,
+    "limiar": 0.694
+   },
+   {
+    "passo": "recusa",
+    "motivo": "similaridade máxima 0.52 abaixo do limiar 0.69"
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "N03",
+  "resposta": "Não consta na base de conhecimento.",
+  "trecho_ids": [],
+  "recusou": true,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "inclinação longitudinal máxima calçada NBR 9050",
+    "tema": "norma"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.656,
+    "limiar": 0.694
+   },
+   {
+    "passo": "recusa",
+    "motivo": "similaridade máxima 0.66 abaixo do limiar 0.69"
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "N04",
+  "resposta": "Não consta na base de conhecimento.",
+  "trecho_ids": [],
+  "recusou": true,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "população com deficiência estado de São Paulo IBGE Censo 2022",
+    "tema": "dado"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.684,
+    "limiar": 0.694
+   },
+   {
+    "passo": "recusa",
+    "motivo": "similaridade máxima 0.68 abaixo do limiar 0.69"
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "N05",
+  "resposta": "Não consta na base de conhecimento.",
+  "trecho_ids": [],
+  "recusou": true,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "distância máxima entre postes iluminação pública NBR",
+    "tema": "norma"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.516,
+    "limiar": 0.694
+   },
+   {
+    "passo": "recusa",
+    "motivo": "similaridade máxima 0.52 abaixo do limiar 0.69"
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "N06",
+  "resposta": "Não consta na base de conhecimento.",
+  "trecho_ids": [],
+  "recusou": true,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "largura mínima ciclovia NBR 9050",
+    "tema": "norma"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.509,
+    "limiar": 0.694
+   },
+   {
+    "passo": "recusa",
+    "motivo": "similaridade máxima 0.51 abaixo do limiar 0.69"
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "N07",
+  "resposta": "Não consta na base de conhecimento.",
+  "trecho_ids": [],
+  "recusou": true,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "preço sensor LDR robô",
+    "tema": "robo"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.525,
+    "limiar": 0.694
+   },
+   {
+    "passo": "recusa",
+    "motivo": "similaridade máxima 0.52 abaixo do limiar 0.69"
+   }
+  ]
+ },
+ {
+  "config": "C_agente",
+  "caso": "N08",
+  "resposta": "Não consta na base de conhecimento.",
+  "trecho_ids": [],
+  "recusou": true,
+  "json_valido": true,
+  "trace": [
+   {
+    "passo": "reescrever",
+    "consulta": "largura mínima vaga estacionamento pessoa deficiência NBR 9050",
+    "tema": "norma"
+   },
+   {
+    "passo": "portao",
+    "cos_max": 0.582,
+    "limiar": 0.694
+   },
+   {
+    "passo": "recusa",
+    "motivo": "similaridade máxima 0.58 abaixo do limiar 0.69"
+   }
+  ]
+ }
+]

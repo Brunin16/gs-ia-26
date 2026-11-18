@@ -1,0 +1,34 @@
+{"id": "C01", "pergunta": "Qual a largura mínima da faixa livre da calçada segundo a NBR 9050?", "tipo": "consta", "trechos_gabarito": ["T11"], "deve_conter": [["1,20"]]}
+{"id": "C02", "pergunta": "Qual a altura livre mínima da faixa livre da calçada?", "tipo": "consta", "trechos_gabarito": ["T11"], "deve_conter": [["2,10"]]}
+{"id": "C03", "pergunta": "Qual a inclinação transversal máxima da faixa livre?", "tipo": "consta", "trechos_gabarito": ["T11"], "deve_conter": [["3%", "3 %", "3 por cento"]]}
+{"id": "C04", "pergunta": "Qual a largura mínima recomendada para a faixa de serviço da calçada?", "tipo": "consta", "trechos_gabarito": ["T12"], "deve_conter": [["0,70"]]}
+{"id": "C05", "pergunta": "A calçada se divide em quais faixas de uso?", "tipo": "consta", "trechos_gabarito": ["T10"], "deve_conter": [["servico"], ["livre"], ["acesso"]]}
+{"id": "C06", "pergunta": "Para que serve a faixa de serviço da calçada?", "tipo": "consta", "trechos_gabarito": ["T12"], "deve_conter": [["mobiliario", "poste", "arvore", "canteiro"]]}
+{"id": "C07", "pergunta": "Qual a largura recomendada (e não apenas a mínima) para a faixa livre?", "tipo": "consta", "trechos_gabarito": ["T13"], "deve_conter": [["1,50"]]}
+{"id": "C08", "pergunta": "Em quais calçadas pode existir a faixa de acesso?", "tipo": "consta", "trechos_gabarito": ["T14"], "deve_conter": [["2,00", "2,0", "2 m", "2 metros"]]}
+{"id": "C09", "pergunta": "Qual a largura mínima da rampa de rebaixamento da guia?", "tipo": "consta", "trechos_gabarito": ["T18", "T17"], "deve_conter": [["1,20"]]}
+{"id": "C10", "pergunta": "Qual a inclinação máxima da rampa de rebaixamento da guia?", "tipo": "consta", "trechos_gabarito": ["T18"], "deve_conter": [["8,33"]]}
+{"id": "C11", "pergunta": "Pode haver desnível entre o fim da rampa de rebaixamento e a rua?", "tipo": "consta", "trechos_gabarito": ["T19"], "deve_conter": [["nao pode", "nao deve", "sem desnivel", "nao ha", "nao e permitido", "proibid"]]}
+{"id": "C12", "pergunta": "Qual a largura mínima para circulação de pedestres durante obras sobre o passeio?", "tipo": "consta", "trechos_gabarito": ["T21"], "deve_conter": [["1,20"]]}
+{"id": "C13", "pergunta": "Qual a altura mínima de toldos e marquises sobre a calçada?", "tipo": "consta", "trechos_gabarito": ["T22"], "deve_conter": [["3,00", "3,0", "3 m", "3 metros"]]}
+{"id": "C14", "pergunta": "Qual a altura livre mínima para obstáculos verticais na calçada?", "tipo": "consta", "trechos_gabarito": ["T22"], "deve_conter": [["2,10"]]}
+{"id": "C15", "pergunta": "Como a faixa livre deve ser destacada visualmente das outras faixas?", "tipo": "consta", "trechos_gabarito": ["T23"], "deve_conter": [["cor", "textura", "junta"]]}
+{"id": "C16", "pergunta": "Qual norma trata da sinalização tátil no piso das calçadas?", "tipo": "consta", "trechos_gabarito": ["T24"], "deve_conter": [["16537"]]}
+{"id": "C17", "pergunta": "Estacionar na calçada é infração? Em qual artigo do CTB?", "tipo": "consta", "trechos_gabarito": ["T04"], "deve_conter": [["181"], ["grave"]]}
+{"id": "C18", "pergunta": "Quantas pessoas com deficiência o Censo 2022 do IBGE contou no Brasil?", "tipo": "consta", "trechos_gabarito": ["T05"], "deve_conter": [["14,4"]]}
+{"id": "C19", "pergunta": "Qual a dificuldade funcional mais frequente entre as pessoas com deficiência no Censo 2022?", "tipo": "consta", "trechos_gabarito": ["T06"], "deve_conter": [["enxergar", "visao", "visual"]]}
+{"id": "C20", "pergunta": "Que parcela das pessoas com deficiência tinha 60 anos ou mais no Censo 2022?", "tipo": "consta", "trechos_gabarito": ["T07"], "deve_conter": [["45,4"]]}
+{"id": "C21", "pergunta": "O que é barreira urbanística segundo a Lei Brasileira de Inclusão?", "tipo": "consta", "trechos_gabarito": ["T02"], "deve_conter": [["vias"], ["espacos"]]}
+{"id": "C22", "pergunta": "O que significa a classe 'aproximando' do modelo do robô?", "tipo": "consta", "trechos_gabarito": ["T26"], "deve_conter": [["queda", "diminu"], ["15"]]}
+{"id": "C23", "pergunta": "Em quais valores do LDR o farol do robô liga e desliga?", "tipo": "consta", "trechos_gabarito": ["T28"], "deve_conter": [["1200"], ["1600"]]}
+{"id": "C24", "pergunta": "O robô grava imagens ou áudio das pessoas?", "tipo": "consta", "trechos_gabarito": ["T30"], "deve_conter": [["nao"]]}
+{"id": "C25", "pergunta": "A que distância o robô aciona o freio de emergência?", "tipo": "consta", "trechos_gabarito": ["T29"], "deve_conter": [["5 cm", "5cm", "5 centimetros"]]}
+{"id": "C26", "pergunta": "O modelo do robô aprendeu bem a classe 'aproximando'?", "tipo": "consta", "trechos_gabarito": ["T31"], "deve_conter": [["nao"]]}
+{"id": "N01", "pergunta": "Qual o valor em reais da multa por estacionar na calçada?", "tipo": "nao_consta", "trechos_gabarito": [], "deve_conter": []}
+{"id": "N02", "pergunta": "Qual a iluminância mínima, em lux, exigida para calçadas?", "tipo": "nao_consta", "trechos_gabarito": [], "deve_conter": []}
+{"id": "N03", "pergunta": "Qual a inclinação longitudinal máxima permitida para a calçada?", "tipo": "nao_consta", "trechos_gabarito": [], "deve_conter": []}
+{"id": "N04", "pergunta": "Quantas pessoas com deficiência vivem no estado de São Paulo?", "tipo": "nao_consta", "trechos_gabarito": [], "deve_conter": []}
+{"id": "N05", "pergunta": "Qual a distância máxima permitida entre postes de iluminação pública?", "tipo": "nao_consta", "trechos_gabarito": [], "deve_conter": []}
+{"id": "N06", "pergunta": "Qual a largura mínima de uma ciclovia segundo a NBR 9050?", "tipo": "nao_consta", "trechos_gabarito": [], "deve_conter": []}
+{"id": "N07", "pergunta": "Qual o preço do sensor LDR usado no robô?", "tipo": "nao_consta", "trechos_gabarito": [], "deve_conter": []}
+{"id": "N08", "pergunta": "Qual a largura mínima de uma vaga de estacionamento para pessoa com deficiência?", "tipo": "nao_consta", "trechos_gabarito": [], "deve_conter": []}
