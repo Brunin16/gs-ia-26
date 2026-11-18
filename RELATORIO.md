@@ -76,17 +76,17 @@ flowchart TD
 
 ## 5. Performance do modelo nas três configurações
 
-> **Status:** os notebooks, os 34 casos de teste e as métricas estão prontos. **Os números abaixo devem ser colados do arquivo gerado por você ao rodar o notebook 06 com o Ollama** ([`avaliacao/resultados/placar.md`](avaliacao/resultados/placar.md)). Não há números simulados neste repositório.
+> **Resultado registrado:** os números abaixo foram extraídos dos arquivos gerados e versionados em `avaliacao/resultados/` (`placar.md`, `placar.csv`, `recall.csv`, `limiar.json`, `respostas.json`). O notebook 06 registra execução com Ollama, LLM `qwen2.5:7b` e embeddings `bge-m3`. Não foram criados resultados simulados para completar esta seção.
 
 **Casos de teste:** 34 (26 `consta` com gabarito + 8 `nao_consta` de armadilha), em [`avaliacao/casos_teste.jsonl`](avaliacao/casos_teste.jsonl). Reprodutível: `temperature=0`, `seed=7`.
 
 | Configuração | Acerto (%) | Alucinação (%) | JSON válido (%) | Citação correta (%) | Recusa correta em "não consta" (%) | Recusa indevida em "consta" (%) |
 | ------------ | ---------: | -------------: | --------------: | ------------------: | ---------------------------------: | ------------------------------: |
-| A · sem contexto | **[PREENCHER]** | | | | | |
-| B · RAG simples | | | | | | |
-| C · agente | | | | | | |
+| A · sem contexto | 17,6 | 52,9 | 100,0 | 23,5 | 25,0 | 11,5 |
+| B · RAG simples | **94,1** | **0,0** | 100,0 | **91,2** | 100,0 | **3,8** |
+| C · agente | 76,5 | **0,0** | 100,0 | 76,5 | 100,0 | 30,8 |
 
-**Busca (notebook 03):** recall@1 e recall@3 de embeddings, BM25 e híbrida em [`avaliacao/resultados/recall.csv`](avaliacao/resultados/recall.csv); limiar de recusa e sua justificativa (Youden J) em `limiar.json` e `limiar.png`. **[PREENCHER: recall@1 / recall@3 e limiar escolhido]**
+**Busca (notebook 03):** os resultados de `recall.csv` foram: embeddings — recall@1 **0,846** e recall@3 **0,923**; BM25 — recall@1 **0,769** e recall@3 **0,885**; busca híbrida — recall@1 **0,846** e recall@3 **0,885**. O limiar escolhido foi **0,694** para `cos_max`, calibrado por Youden J (**J = 0,731**), com TPR para casos `consta` de **0,731** e TNR para `nao_consta` de **1,000**, conforme `limiar.json`.
 
 ### Como as métricas são definidas
 - **Acerto:** em `consta`, JSON válido, não recusou e contém todos os grupos de `deve_conter`; em `nao_consta`, recusou.
@@ -96,29 +96,35 @@ flowchart TD
 - **Limitações das métricas:** a checagem por palavras-chave é conservadora e pode reprovar respostas corretas escritas de outro jeito (leia as respostas em `respostas.json`); com 34 casos, diferenças pequenas não são estatisticamente significativas.
 
 ### Interpretação
-**[PREENCHER: use o texto gerado pelo notebook 06 ("Resultados interpretados") e acrescente sua leitura: o que mudou de A para B e de B para C, onde o agente recusou demais, o que isso custa.]**
+Os resultados mostram um salto expressivo de A para B: o RAG simples elevou o acerto de **17,6% para 94,1%**, reduziu a alucinação de **52,9% para 0%**, aumentou a citação correta de **23,5% para 91,2%** e passou a recusar corretamente todos os oito casos `nao_consta`. O contexto recuperado da base foi decisivo para restringir as respostas e ancorá-las em fontes.
+
+De B para C, o agente manteve **0% de alucinação** e **100% de recusa correta** nos casos `nao_consta`, mas o acerto caiu de **94,1% para 76,5%**, a citação correta caiu de **91,2% para 76,5%** e a recusa indevida em perguntas que a base respondia subiu de **3,8% para 30,8%**. O trace mostra dois mecanismos de recusa excessivamente conservadores: o portão rejeitou perguntas respondíveis quando a similaridade máxima ficou pouco abaixo de 0,694 (por exemplo, C01 com 0,673 e C21 com 0,624); em outros casos, a busca passou pelo portão, mas a recuperação/geração não produziu uma resposta citada (C02).
+
+Portanto, neste conjunto de testes, o agente troca cobertura por cautela: evita responder sem evidência, mas também deixa de responder perguntas cobertas pela base. Para este produto, isso reduz o risco de orientação inventada, porém prejudica a utilidade para o cidadão e a explicação dos eventos do robô. O RAG simples apresentou o melhor equilíbrio medido neste experimento. A amostra tem apenas 34 perguntas, então os percentuais devem ser tratados como evidência exploratória, não como prova estatística de superioridade geral.
 
 ## 6. Os 5 erros reais, a causa e a correção proposta
 
-O notebook 06 gera [`avaliacao/resultados/erros_candidatos.md`](avaliacao/resultados/erros_candidatos.md) com **os erros que realmente ocorreram**. Escolha 5 (tipos e configurações variados), investigue o *trace* em `respostas.json` e preencha:
+O notebook 06 gerou [`avaliacao/resultados/erros_candidatos.md`](avaliacao/resultados/erros_candidatos.md) com os erros observados. Foram selecionados abaixo cinco casos de configurações e causas variadas, conferidos nos registros de `respostas.json`:
 
 | # | Config / caso | O que aconteceu | Causa (confirmada nos dados) | Correção proposta |
 | - | ------------- | --------------- | ---------------------------- | ----------------- |
-| 1 | **[PREENCHER]** | | | |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
-| 5 | | | | |
+| 1 | A · C14 | Respondeu que a altura livre mínima para obstáculos verticais seria 0,85 m. | A configuração A não recebe contexto recuperado nem trechos da base; a resposta gerou um valor numérico não sustentado. O erro foi classificado como número fora da base (`0.85`). | Não usar a resposta sem contexto em produção. Exigir recuperação de trechos e validação de números contra a evidência citada; se não houver suporte, recusar. |
+| 2 | A · N01 | Informou uma faixa estimada de multa em reais para estacionar na calçada. | N01 é um caso `nao_consta`: a base declara explicitamente que não contém o valor da multa. Sem contexto e sem mecanismo de recusa, o modelo completou com conhecimento presumido. | Manter a política de recusa para lacunas; não permitir estimativas ou conhecimento paramétrico quando a tarefa exige resposta exclusivamente baseada na base. |
+| 3 | B · C02 | Perguntava a altura livre mínima da faixa livre, mas respondeu com a largura mínima de 1,20 m. | O trace de busca retornou T16, T13 e T17 (similaridades 0,762; 0,733; 0,707), e não recuperou o trecho T22 que aparece em respostas corretas relacionadas à altura livre (como C14). A resposta ficou ancorada em informação de largura, não na dimensão perguntada. | Melhorar a recuperação com reranker e/ou expansão de consulta; incluir testes que diferenciem largura e altura; validar se a resposta cobre exatamente o atributo solicitado antes de aceitá-la. |
+| 4 | C · C01 | Recusou responder sobre a largura mínima da faixa livre, embora a base contenha a informação. | O trace registra `cos_max = 0,673`, abaixo do limiar `0,694`; o portão encerrou o fluxo antes da busca híbrida e da geração. | Recalibrar o limiar com mais perguntas, testar limiares por tema e permitir uma segunda tentativa de recuperação antes da recusa. Medir explicitamente o custo em recusas indevidas. |
+| 5 | C · C22 | Recusou explicar a classe `aproximando`, apesar de a documentação do robô estar na base. | O trace registra `cos_max = 0,595`, abaixo do limiar `0,694`; a busca foi bloqueada pelo portão de relevância. O problema é consistente com a baixa similaridade das consultas reescritas para o tema `robo`. | Melhorar a redação/indexação dos trechos de documentação do robô, adicionar exemplos de consultas equivalentes e avaliar limiar específico para esse tema antes de recusar. |
 
 *Causas típicas a verificar (não são resultados): trecho do gabarito fora do top-3; limiar de recusa muito alto ou baixo; pergunta "não consta" lexicalmente parecida com a base; palavra-chave do gabarito escrita de outra forma; verificador LLM aprovando algo parcial.*
 
 ## 7. Conclusão técnica e links
 
-**[PREENCHER: conclusão após os resultados: o agente alucinou menos que o RAG simples e que o modelo sem contexto? A que custo (recusas indevidas)? O que faria a seguir: mais trechos e casos, LoRA, reranker, LDR e distância como contexto do evento.]**
+Neste experimento, tanto o RAG simples quanto o agente tiveram **0% de alucinação medida**, contra **52,9%** na configuração sem contexto. Entretanto, o agente não superou o RAG simples no resultado geral: teve menos acertos (76,5% contra 94,1%), menos citações corretas (76,5% contra 91,2%) e muito mais recusas indevidas (30,8% contra 3,8%). Assim, a especialização por agente e verificador aumentou a cautela, mas o limiar e a recuperação atuais estão conservadores demais para perguntas que a base efetivamente responde.
 
-- Repositório desta matéria: **[PREENCHER]**
-- Vídeo: **[PREENCHER]**
-- Robô (Maker Lab): **[PREENCHER]**
+Como próximos passos, priorizaríamos: (1) ampliar a base e os casos de teste, sobretudo paráfrases sobre dimensões de calçadas e eventos do robô; (2) melhorar a recuperação com reranker, expansão de consulta e avaliação por tema; (3) recalibrar o limiar com um conjunto maior e separado de validação; (4) revisar os critérios do verificador para distinguir falta real de evidência de falha de recuperação; e (5) incluir contexto estruturado do evento (classe, distância e leitura do LDR) na consulta à base. LoRA pode ser investigado depois, mas não é a primeira correção indicada pelos erros observados: os traces apontam principalmente para recuperação e política de recusa.
+
+- Repositório desta matéria: [github.com/Brunin16/gs-ia-26](https://github.com/Brunin16/gs-ia-26) (URL indicada no README do projeto).
+- Vídeo: **não informado nos arquivos fornecidos**; inserir o link de apresentação quando disponível.
+- Robô (Maker Lab): **não há URL externa específica nos arquivos fornecidos**; o projeto descreve a integração e a ponte Serial em `scripts/ponte_robo.py`.
 
 ## Mapa de entrega × critérios
 
