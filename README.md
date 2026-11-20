@@ -31,7 +31,8 @@ O relatório da disciplina está em **[RELATORIO.md](RELATORIO.md)**.
 **Requisitos:** cerca de 10 GB livres em disco e internet para os downloads. Uma placa NVIDIA com 8 GB de VRAM deixa tudo rápido; sem placa de vídeo também funciona, só que mais devagar. Nada usa Docker.
 
 ---
-
+- [Link para o video](https://www.youtube.com/watch?v=PzD18DrZ8WA)
+---
 ## Instalação no Windows, passo a passo
 
 ### Passo 1: instalar o Python 3.12
