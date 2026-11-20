@@ -123,8 +123,8 @@ Neste experimento, tanto o RAG simples quanto o agente tiveram **0% de alucinaç
 Como próximos passos, priorizaríamos: (1) ampliar a base e os casos de teste, sobretudo paráfrases sobre dimensões de calçadas e eventos do robô; (2) melhorar a recuperação com reranker, expansão de consulta e avaliação por tema; (3) recalibrar o limiar com um conjunto maior e separado de validação; (4) revisar os critérios do verificador para distinguir falta real de evidência de falha de recuperação; e (5) incluir contexto estruturado do evento (classe, distância e leitura do LDR) na consulta à base. LoRA pode ser investigado depois, mas não é a primeira correção indicada pelos erros observados: os traces apontam principalmente para recuperação e política de recusa.
 
 - Repositório desta matéria: [github.com/Brunin16/gs-ia-26](https://github.com/Brunin16/gs-ia-26) (URL indicada no README do projeto).
-- Vídeo: **não informado nos arquivos fornecidos**; inserir o link de apresentação quando disponível.
-- Robô (Maker Lab): **não há URL externa específica nos arquivos fornecidos**; o projeto descreve a integração e a ponte Serial em `scripts/ponte_robo.py`.
+- Vídeo: [Link para o video](https://youtu.be/PzD18DrZ8WA)
+- Robô (Maker Lab): [github.com/Brunin16/gs-makerlab-26](https://github.com/Brunin16/gs-makerlab-26); o projeto descreve a integração e a ponte Serial em `scripts/ponte_robo.py`.
 
 ## Mapa de entrega × critérios
 
